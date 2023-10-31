@@ -1,0 +1,21 @@
+:root {
+  --negro-logo: rgba(33, 24, 38, 1);
+  --blanco-color: rgba(253, 247, 255, 1);
+  --color-botn-men: rgba(64, 47, 73, 1);
+  --color-botn-fuera: rgba(111, 58, 140, 1);
+  --color-tarjeta-fondo: rgba(71, 21, 95, 1);
+  --color-fondo: rgba(50, 37, 57, 1);
+  --color-tarjeta-diy: rgba(111, 58, 140, 0.8);
+  --color-tarjeta-assisted: rgba(111, 58, 140, 0.8);
+  --color-tarjeta-pro: rgba(111, 58, 140, 0.8);
+  --logo-font-family: "Oxanium-SemiBold", Helvetica;
+  --logo-font-weight: 600;
+  --logo-font-size: 20px;
+  --logo-letter-spacing: 1.6px;
+  --logo-line-height: normal;
+  --logo-font-style: normal;
+  --sombrita: 4px 4px 0px 0px rgba(33, 24, 38, 1);
+  --sombraca: 0px 5px 0px 0px rgba(217, 217, 217, 1);
+  --variable-collection-texto-logo: rgba(236, 238, 237, 1);
+  --variable-collection-headerfooter-stroke: rgba(236, 238, 237, 1);
+}
