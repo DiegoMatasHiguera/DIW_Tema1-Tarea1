@@ -1,5 +1,5 @@
 .pgina-principal {
-  background-color: transparent;
+  background-color: var(--color-fondo);
   display: flex;
   flex-direction: row;
   justify-content: center;
