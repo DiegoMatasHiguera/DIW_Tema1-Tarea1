@@ -8,9 +8,6 @@
 
 .pgina-principal .div {
   overflow: hidden;
-  background-image: url(./img/p-gina-principal.svg);
-  background-size: cover;
-  background-position: 50% 50%;
   width: 360px;
   height: 1920px;
   position: relative;
